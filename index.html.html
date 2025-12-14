@@ -83,7 +83,7 @@
 
 <main>
     <article>
-        <img src="book-cover.jpg"
+        <img src="book-cover.jpg.jpg"
              alt="Bìa sách Nhà thờ Đức Bà Paris">
 
         <section>
